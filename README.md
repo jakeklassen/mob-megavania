@@ -1,6 +1,4 @@
-# Mob Megavania
-
-![vehikl](https://avatars.githubusercontent.com/u/6425636?s=64)
+# ![vehikl](https://avatars.githubusercontent.com/u/6425636?s=32) Mob Megavania
 
 ## Current Idea
 
